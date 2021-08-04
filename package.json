@@ -38,5 +38,9 @@
   },
   "keywords": [
     "gruntplugin"
-  ]
+  ],
+  "dependencies": {
+    "grunt-contrib-compress": "^0.12.0",
+    "lodash": "^2.4.1"
+  }
 }
